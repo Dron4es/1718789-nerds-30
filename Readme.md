@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Andrey Orlov](https://up.htmlacademy.ru/htmlcss/30/user/1718789).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Колесников](https://htmlacademy.ru/profile/m1roku).
 
 ---
 
